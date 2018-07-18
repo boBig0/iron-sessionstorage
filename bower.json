@@ -1,6 +1,6 @@
 {
   "name": "iron-sessionstorage",
-  "description": "Access to sessionStorage",
+  "description": "Access to sessionStorage by Bo",
   "main": "iron-sessionstorage.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0"
